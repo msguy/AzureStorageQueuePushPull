@@ -9,7 +9,7 @@ This sample demonstrates how to use a Storage Queue on Microsoft Azure. There ar
 
 2. AzureStorageQueuePull :
 ==========================
-   This application again gets a reference to Microsoft Azure Storage Account, reads the storage queue, pulls the messages from queue and displays the count & the actual messages in the consol.
+   This application again gets a reference to Microsoft Azure Storage Account, reads the storage queue, pulls the messages from queue and displays the count & the actual messages in the console and deletes the message.
 
    
 Run the Demo
