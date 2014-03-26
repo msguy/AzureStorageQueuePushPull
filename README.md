@@ -1,7 +1,7 @@
 Azure Storage Queue Push Pull
 =============================
 
-This sample demonstrates how to use a Storage Queue on Microsoft Azure. There are two console applications in this solution.
+This sample demonstrates how to use a Storage Queue on Microsoft Azure. There are two console applications in this solution. You can run each on a seperate machine or run it on a single machine.
 
 1. AzureStorageQueuePull :
 ==========================
