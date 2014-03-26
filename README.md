@@ -24,3 +24,5 @@ In the AzureStorageQueuePush window, enter the number (integer) of messages you 
 Now, enter you messages one at a time and hit enter. Repeat it.
 
 In the AzureStorageQueuePull window, hit enter key. It displays the number of messages in queue and displays the messages one after the other in console.
+
+![alt tag](http://url/to/img.png)
