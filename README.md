@@ -1,5 +1,5 @@
-AzureStorageQueuePushPull
-=========================
+Azure Storage Queue Push Pull
+=============================
 
 This sample demonstrates how to use a Storage Queue on Microsoft Azure. 
 
