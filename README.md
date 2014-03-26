@@ -14,4 +14,9 @@ There are two console applications in this solution
    
    To run a demo, configure the project in Visual Studio 2013, set the option of "Multiple Projects: in Solution Properties -> Startup project setting.
    
+Run the solution. Two console windows will be displayed. 
+In the AzureStorageQueuePush window, enter the number (integer) of messages you wish to place in queue. Hit Enter Key.
+Now, enter you messages one at a time and hit enter. Repeat it.
+
+In the AzureStorageQueuePull window, hit enter key. It displays the number of messages in queue and displays the messages one after the other in console.
    
