@@ -14,7 +14,7 @@ There are two console applications in this solution
    This application again gets a reference to Microsoft Azure Storage Account, reads the storage queue, pulls the messages from queue and displays the count & the actual messages in the consol.
    
    
-To run a demo, 
+Run a demo, 
 ============================
 Setup the project using Visual Studio 2013, In the solution properties, set the option to run Multiple Projects.
 (Right click on Solution -> Properties -> Startup project setting Tab - "Multiple Projects".
